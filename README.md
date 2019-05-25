@@ -2,6 +2,7 @@
 Project in which communication between different nodes (cars & traffic light) is achieved, in an attempt to provide a functional communication
 system that aims in the increase of safety in driving.
 
+The ALOHA protocol was used in the network.
 --------------------------------------------------------------
 Video Demonstration of Implemented System:
 https://mega.nz/#!nSJlmA6C!MGCz0z664B-vrUhXxfego51cPHOzq5efYmmU499-KyU
